@@ -461,7 +461,7 @@ Enter a request: > 1 5 spy -duck spy sad
              5 is palindromic, spy, jumping, odd, sad
              6 is palindromic, spy, jumping, even, sad
 
-Enter a request: 1 -1
+Enter a request: > 1 -1
 
 The second parameter should be a natural number.
 
