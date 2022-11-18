@@ -5,7 +5,6 @@ import java.util.*;
 class InputValidator {
 
     private static final Scanner SCANNER = new Scanner(System.in);
-
     private String input;
     private String[] array0fInputData;
     private static final String[] allProperties = {"EVEN", "ODD", "BUZZ", "DUCK", "PALINDROMIC", "GAPFUL", "SPY", "SQUARE", "SUNNY", "JUMPING", "HAPPY", "SAD"};
